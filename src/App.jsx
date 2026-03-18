@@ -7,6 +7,9 @@ import transformacionImg from './assets/services/transformacion.svg'
 import webImg from './assets/services/web.svg'
 import softwareImg from './assets/services/software.svg'
 
+const whatsappBase =
+  'https://wa.me/51907383270?text=Hola,%20vi%20la%20web%20de%20Alta%20Soluciones%20y%20Servicios%20y%20quiero%20más%20información%20sobre%20sus%20servicios.'
+
 const services = [
   {
     title: 'Eventos corporativos y activaciones',
@@ -92,8 +95,13 @@ export default function App() {
             </p>
 
             <div className="hero-actions">
-              <a className="btn btn-primary" href="https://wa.me/51907383270" target="_blank" rel="noreferrer">
-                Escríbenos por WhatsApp
+              <a
+                className="btn btn-primary"
+                href={whatsappBase}
+                target="_blank"
+                rel="noreferrer"
+              >
+                Solicitar información
               </a>
               <a className="btn btn-secondary" href="#servicios">
                 Ver servicios
@@ -144,6 +152,14 @@ export default function App() {
                 <div className="service-body">
                   <h3>{service.title}</h3>
                   <p>{service.description}</p>
+                  <a
+                    className="service-link"
+                    href={`https://wa.me/51907383270?text=Hola,%20quiero%20información%20sobre%20${encodeURIComponent(service.title)}.`}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Consultar este servicio
+                  </a>
                 </div>
               </article>
             ))}
@@ -197,7 +213,12 @@ export default function App() {
                 En Alta Soluciones y Servicios podemos ayudarte con proyectos comerciales, creativos y tecnológicos.
               </p>
             </div>
-            <a className="btn btn-primary" href="#contacto">
+            <a
+              className="btn btn-primary"
+              href="https://wa.me/51907383270?text=Hola,%20quiero%20información%20sobre%20sus%20servicios."
+              target="_blank"
+              rel="noreferrer"
+            >
               Solicitar información
             </a>
           </div>
@@ -220,6 +241,16 @@ export default function App() {
           </a>
         </div>
       </footer>
+
+      <a
+        href="https://wa.me/51907383270?text=Hola,%20quiero%20información%20sobre%20sus%20servicios."
+        className="whatsapp-float"
+        target="_blank"
+        rel="noreferrer"
+        aria-label="WhatsApp"
+      >
+        <span>💬</span>
+      </a>
     </div>
   )
 }
