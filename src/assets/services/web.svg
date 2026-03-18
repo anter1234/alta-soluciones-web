@@ -1,0 +1,14 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="520" rx="32" fill="#14141C"/>
+<circle cx="658" cy="110" r="82" fill="#F3EDE7" fill-opacity="0.07"/>
+<rect x="124" y="112" width="552" height="296" rx="30" fill="#F3EDE7" fill-opacity="0.08" stroke="#F3EDE7" stroke-opacity="0.18"/>
+<rect x="124" y="112" width="552" height="48" rx="30" fill="#FF5B00"/>
+<circle cx="164" cy="136" r="8" fill="#FFF5EF"/>
+<circle cx="192" cy="136" r="8" fill="#FFF5EF" fill-opacity="0.7"/>
+<circle cx="220" cy="136" r="8" fill="#FFF5EF" fill-opacity="0.45"/>
+<rect x="160" y="192" width="140" height="176" rx="20" fill="#FFF5EF" fill-opacity="0.15"/>
+<rect x="330" y="192" width="310" height="54" rx="18" fill="#FFF5EF" fill-opacity="0.9"/>
+<rect x="330" y="268" width="248" height="34" rx="14" fill="#FFF5EF" fill-opacity="0.4"/>
+<rect x="330" y="320" width="180" height="34" rx="14" fill="#FFF5EF" fill-opacity="0.7"/>
+<text x="172" y="450" fill="#F3EDE7" font-family="Arial, sans-serif" font-size="40" font-weight="700">Diseño y desarrollo web</text>
+</svg>

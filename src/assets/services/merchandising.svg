@@ -1,0 +1,15 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="520" rx="32" fill="#15151C"/>
+<circle cx="632" cy="122" r="88" fill="#FF5B00" fill-opacity="0.18"/>
+<rect x="148" y="122" width="204" height="232" rx="24" fill="#FF5B00"/>
+<rect x="382" y="150" width="260" height="176" rx="22" fill="#F3EDE7" fill-opacity="0.1" stroke="#F3EDE7" stroke-opacity="0.18"/>
+<path d="M198 194H302" stroke="#FFF5EF" stroke-width="18" stroke-linecap="round"/>
+<path d="M198 238H282" stroke="#FFF5EF" stroke-width="18" stroke-linecap="round"/>
+<path d="M422 198H602" stroke="#FFF5EF" stroke-width="16" stroke-linecap="round" opacity="0.9"/>
+<path d="M422 240H560" stroke="#FFF5EF" stroke-width="16" stroke-linecap="round" opacity="0.9"/>
+<path d="M422 282H528" stroke="#FFF5EF" stroke-width="16" stroke-linecap="round" opacity="0.9"/>
+<circle cx="592" cy="360" r="34" fill="#FF5B00"/>
+<path d="M592 338V382" stroke="#FFF5EF" stroke-width="14" stroke-linecap="round"/>
+<path d="M570 360H614" stroke="#FFF5EF" stroke-width="14" stroke-linecap="round"/>
+<text x="148" y="430" fill="#F3EDE7" font-family="Arial, sans-serif" font-size="40" font-weight="700">Merchandising y branding</text>
+</svg>

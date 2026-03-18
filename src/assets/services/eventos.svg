@@ -1,0 +1,13 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="520" rx="32" fill="#14141A"/>
+<circle cx="140" cy="118" r="68" fill="#FF5B00" fill-opacity="0.25"/>
+<circle cx="664" cy="394" r="98" fill="#F3EDE7" fill-opacity="0.08"/>
+<rect x="120" y="110" width="560" height="280" rx="26" fill="#F3EDE7" fill-opacity="0.08" stroke="#F3EDE7" stroke-opacity="0.18"/>
+<rect x="160" y="150" width="480" height="180" rx="20" fill="#FF5B00" fill-opacity="0.85"/>
+<path d="M210 286L290 216L362 266L448 190L592 282" stroke="#F7F4EF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="290" cy="216" r="12" fill="#F7F4EF"/>
+<circle cx="362" cy="266" r="12" fill="#F7F4EF"/>
+<circle cx="448" cy="190" r="12" fill="#F7F4EF"/>
+<circle cx="592" cy="282" r="12" fill="#F7F4EF"/>
+<text x="160" y="430" fill="#F3EDE7" font-family="Arial, sans-serif" font-size="40" font-weight="700">Eventos y activaciones</text>
+</svg>

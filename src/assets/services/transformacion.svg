@@ -1,0 +1,14 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="520" rx="32" fill="#121219"/>
+<circle cx="140" cy="392" r="102" fill="#FF5B00" fill-opacity="0.18"/>
+<rect x="120" y="124" width="220" height="250" rx="24" fill="#F3EDE7" fill-opacity="0.09" stroke="#F3EDE7" stroke-opacity="0.15"/>
+<rect x="390" y="146" width="290" height="206" rx="28" fill="#FF5B00" fill-opacity="0.94"/>
+<rect x="152" y="160" width="156" height="26" rx="12" fill="#FFF5EF" fill-opacity="0.92"/>
+<rect x="152" y="210" width="98" height="26" rx="12" fill="#FFF5EF" fill-opacity="0.65"/>
+<rect x="152" y="260" width="132" height="26" rx="12" fill="#FFF5EF" fill-opacity="0.92"/>
+<path d="M320 250H380" stroke="#FFF5EF" stroke-width="14" stroke-linecap="round"/>
+<path d="M364 226L388 250L364 274" stroke="#FFF5EF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M460 252H608" stroke="#FFF5EF" stroke-width="18" stroke-linecap="round"/>
+<path d="M460 296H560" stroke="#FFF5EF" stroke-width="18" stroke-linecap="round" opacity="0.75"/>
+<text x="120" y="430" fill="#F3EDE7" font-family="Arial, sans-serif" font-size="38" font-weight="700">Transformación digital</text>
+</svg>

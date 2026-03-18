@@ -1,0 +1,13 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="520" rx="32" fill="#111119"/>
+<circle cx="140" cy="118" r="72" fill="#FF5B00" fill-opacity="0.18"/>
+<circle cx="650" cy="392" r="94" fill="#F3EDE7" fill-opacity="0.06"/>
+<rect x="128" y="138" width="544" height="248" rx="28" fill="#F3EDE7" fill-opacity="0.08" stroke="#F3EDE7" stroke-opacity="0.16"/>
+<path d="M246 258L196 210L246 162" stroke="#FF5B00" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M554 162L604 210L554 258" stroke="#FF5B00" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M440 148L360 274" stroke="#FFF5EF" stroke-width="16" stroke-linecap="round"/>
+<rect x="262" y="300" width="276" height="34" rx="16" fill="#FFF5EF" fill-opacity="0.16"/>
+<rect x="282" y="318" width="94" height="12" rx="6" fill="#FFF5EF" fill-opacity="0.88"/>
+<rect x="392" y="318" width="126" height="12" rx="6" fill="#FFF5EF" fill-opacity="0.5"/>
+<text x="168" y="438" fill="#F3EDE7" font-family="Arial, sans-serif" font-size="40" font-weight="700">Software a medida y soporte</text>
+</svg>
